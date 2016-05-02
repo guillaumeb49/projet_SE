@@ -12,4 +12,4 @@
 #include <pthread.h>
 
 
-
+static void * ThreadServeur(void *p_data);
